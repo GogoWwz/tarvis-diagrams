@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T10:57:23.738Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="C76aoivsXztECFZQidOv" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T11:19:29.076Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="DejI3rE3NgQHTv_JZ90l" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1803" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
         <mxCell id="B9upHHpbJp7XhDVoOcVI-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B9upHHpbJp7XhDVoOcVI-6" target="B9upHHpbJp7XhDVoOcVI-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B9upHHpbJp7XhDVoOcVI-6" value="生成结构体:&lt;br&gt;- command&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- payload&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="B9upHHpbJp7XhDVoOcVI-6" value="生成指令结构体:&lt;br&gt;- command&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- payload&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="350" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="B9upHHpbJp7XhDVoOcVI-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B9upHHpbJp7XhDVoOcVI-12" target="B9upHHpbJp7XhDVoOcVI-15">
