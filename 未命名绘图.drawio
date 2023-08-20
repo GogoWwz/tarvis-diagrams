@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-08-20T08:59:34.295Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="J_m4sEDO8aNdtw9wGDZZ" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-20T17:29:55.036Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="5gl9sIMWNqIVPfDE2qzk" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1975" dy="2264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4609" dy="3725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="B9upHHpbJp7XhDVoOcVI-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="B9upHHpbJp7XhDVoOcVI-31">
+        <mxCell id="B9upHHpbJp7XhDVoOcVI-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="B9upHHpbJp7XhDVoOcVI-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B9upHHpbJp7XhDVoOcVI-34" value="主Session" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B9upHHpbJp7XhDVoOcVI-32">
+        <mxCell id="B9upHHpbJp7XhDVoOcVI-34" value="主Session" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="B9upHHpbJp7XhDVoOcVI-32">
           <mxGeometry x="-0.2972" relative="1" as="geometry">
             <mxPoint y="27" as="offset" />
           </mxGeometry>
@@ -53,10 +53,10 @@
         <mxCell id="B9upHHpbJp7XhDVoOcVI-12" value="返回null" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="640" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="B9upHHpbJp7XhDVoOcVI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.144;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B9upHHpbJp7XhDVoOcVI-15" target="B9upHHpbJp7XhDVoOcVI-36">
+        <mxCell id="B9upHHpbJp7XhDVoOcVI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.144;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B9upHHpbJp7XhDVoOcVI-15" target="B9upHHpbJp7XhDVoOcVI-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B9upHHpbJp7XhDVoOcVI-50" value="生成答案" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B9upHHpbJp7XhDVoOcVI-49">
+        <mxCell id="B9upHHpbJp7XhDVoOcVI-50" value="生成回答" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="B9upHHpbJp7XhDVoOcVI-49">
           <mxGeometry x="-0.0286" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -78,10 +78,10 @@
         <mxCell id="B9upHHpbJp7XhDVoOcVI-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B9upHHpbJp7XhDVoOcVI-23" target="B9upHHpbJp7XhDVoOcVI-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B9upHHpbJp7XhDVoOcVI-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B9upHHpbJp7XhDVoOcVI-23" target="B9upHHpbJp7XhDVoOcVI-41">
+        <mxCell id="B9upHHpbJp7XhDVoOcVI-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B9upHHpbJp7XhDVoOcVI-23" target="B9upHHpbJp7XhDVoOcVI-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B9upHHpbJp7XhDVoOcVI-43" value="子Session3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B9upHHpbJp7XhDVoOcVI-42">
+        <mxCell id="B9upHHpbJp7XhDVoOcVI-43" value="子Session3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="B9upHHpbJp7XhDVoOcVI-42">
           <mxGeometry x="-0.12" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -90,12 +90,12 @@
           <mxGeometry x="650" y="880" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="B9upHHpbJp7XhDVoOcVI-27" value="工作区更新结果" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="980" y="880" width="160" height="100" as="geometry" />
+          <mxGeometry x="1161" y="880" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="B9upHHpbJp7XhDVoOcVI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B9upHHpbJp7XhDVoOcVI-31" target="B9upHHpbJp7XhDVoOcVI-3">
+        <mxCell id="B9upHHpbJp7XhDVoOcVI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B9upHHpbJp7XhDVoOcVI-31" target="B9upHHpbJp7XhDVoOcVI-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B9upHHpbJp7XhDVoOcVI-35" value="子Session1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B9upHHpbJp7XhDVoOcVI-33">
+        <mxCell id="B9upHHpbJp7XhDVoOcVI-35" value="子Session1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="B9upHHpbJp7XhDVoOcVI-33">
           <mxGeometry x="0.0205" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -106,16 +106,27 @@
         <mxCell id="B9upHHpbJp7XhDVoOcVI-36" value="更新对话记录" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="1310" width="560" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="B9upHHpbJp7XhDVoOcVI-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.857;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B9upHHpbJp7XhDVoOcVI-41" target="B9upHHpbJp7XhDVoOcVI-36">
+        <mxCell id="B9upHHpbJp7XhDVoOcVI-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.857;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B9upHHpbJp7XhDVoOcVI-41" target="B9upHHpbJp7XhDVoOcVI-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B9upHHpbJp7XhDVoOcVI-51" value="生成答案" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B9upHHpbJp7XhDVoOcVI-46">
+        <mxCell id="B9upHHpbJp7XhDVoOcVI-51" value="生成回答" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="B9upHHpbJp7XhDVoOcVI-46">
           <mxGeometry x="0.0502" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B9upHHpbJp7XhDVoOcVI-41" value="基于用户的需求和生成的内容&lt;br&gt;新建会话" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="1090" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="B9upHHpbJp7XhDVoOcVI-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.134;exitY=1.011;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B9upHHpbJp7XhDVoOcVI-53" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9upHHpbJp7XhDVoOcVI-55" value="用户输入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B9upHHpbJp7XhDVoOcVI-54">
+          <mxGeometry x="-0.0403" y="3" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B9upHHpbJp7XhDVoOcVI-53" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;用户登陆之后，就会和建立一个WebSocket链接，该链接主要服务于AI向指定会话推送相关的内容：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 为什么不用SSE：SSE的使用场景还是太被动了，非常依赖客户端的主动性，所以并不支持更强大的推送机制&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 为什么登陆就建立一个WS链接：每个会话都建立一个WS链接过于奢侈&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="-774" width="1270" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
