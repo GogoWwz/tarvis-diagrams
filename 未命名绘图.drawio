@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-20T17:37:38.323Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="b4roCiHOKDRF-_quF_M3" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T14:24:25.246Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="BVqxc_rvSAf_-vOgWK6k" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="5185" dy="4044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3771" dy="3260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -128,10 +128,10 @@
         <mxCell id="B9upHHpbJp7XhDVoOcVI-53" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;用户登陆之后，就会和建立一个WebSocket链接，该链接主要服务于AI向指定会话推送相关的内容：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 为什么不用SSE：SSE的使用场景还是太被动了，非常依赖客户端的主动性，所以并不支持更强大的推送机制&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- 为什么登陆就建立一个WS链接：每个会话都建立一个WS链接过于奢侈&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="-774" width="1270" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="B9upHHpbJp7XhDVoOcVI-57" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.689;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B9upHHpbJp7XhDVoOcVI-53">
+        <mxCell id="B9upHHpbJp7XhDVoOcVI-57" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.689;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1040" y="-260" as="sourcePoint" />
-            <mxPoint x="1040" y="870" as="targetPoint" />
+            <mxPoint x="1037.5199999999998" y="-572.6699999999996" as="sourcePoint" />
+            <mxPoint x="1042.49" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B9upHHpbJp7XhDVoOcVI-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="B9upHHpbJp7XhDVoOcVI-66" target="B9upHHpbJp7XhDVoOcVI-27">
