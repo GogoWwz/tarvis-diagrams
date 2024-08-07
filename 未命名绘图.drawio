@@ -1,9 +1,114 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第 1 页" id="MdLTre9k859fwDna6mKk">
-    <mxGraphModel>
+    <mxGraphModel dx="2947" dy="2229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="200" width="230" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-5" value="micro source" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-915" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-6" value="micro source" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-915" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-7" value="micro source" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-915" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-9" value="micro repo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-885" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=55;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="np9BdB3iTzsvDNS6tE6I-25" target="np9BdB3iTzsvDNS6tE6I-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-25" value="PUB 构建" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="330" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="np9BdB3iTzsvDNS6tE6I-4" target="np9BdB3iTzsvDNS6tE6I-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-29" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="10" width="300" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-30" value="cdn" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="25" as="sourcePoint" />
+            <mxPoint x="50" y="25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-32" value="nkj &amp;amp; js bundle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="85" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-33" value="nkj &amp;amp; js bundle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="75" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-34" value="nkj &amp;amp; js bundle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="85" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-35" value="nkj &amp;amp; js bundle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="95" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-36" value="nkj &amp;amp; js bundle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="105" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-37" value="nkj &amp;amp; js bundle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="115" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-38" value="nkj &amp;amp; js bundle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="125" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-39" value="nkj &amp;amp; js bundle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-35" y="95" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-40" value="nkj &amp;amp; js bundle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="115" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-41" value="nkj &amp;amp; js bundle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="135" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-45" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="640" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-52" value="PUB 微应用管理平台&lt;div&gt;路由映射、微应用管理等功能&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="410" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="np9BdB3iTzsvDNS6tE6I-57" target="np9BdB3iTzsvDNS6tE6I-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-57" value="访问url" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="np9BdB3iTzsvDNS6tE6I-58" target="np9BdB3iTzsvDNS6tE6I-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-58" value="nginx负载均衡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-585" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="np9BdB3iTzsvDNS6tE6I-60" target="np9BdB3iTzsvDNS6tE6I-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-60" value="pagerender网关&lt;div&gt;根据url解析对应的micro njk&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.456;exitY=1.07;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="np9BdB3iTzsvDNS6tE6I-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-260" y="500" as="sourcePoint" />
+            <mxPoint x="-260" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="np9BdB3iTzsvDNS6tE6I-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-230" y="610" as="sourcePoint" />
+            <mxPoint x="-260" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-68" value="njk加载js bundle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
