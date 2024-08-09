@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第 1 页" id="MdLTre9k859fwDna6mKk">
-    <mxGraphModel dx="2995" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="3593" dy="983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,6 +25,11 @@
               <mxPoint x="-265" y="300" />
               <mxPoint x="-265" y="110" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1a1Lsmfp7jN7z8-VnFVB-15" value="client entry&lt;div&gt;server entry&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="np9BdB3iTzsvDNS6tE6I-44">
+          <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="np9BdB3iTzsvDNS6tE6I-25" value="PUB 构建" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
@@ -144,7 +149,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="np9BdB3iTzsvDNS6tE6I-75" value="SSR服务执行 server entry handler&lt;div&gt;构建HTMl&lt;div&gt;JS沙箱&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="np9BdB3iTzsvDNS6tE6I-75" value="SSR服务执行 server entry handler&lt;div&gt;构建HTML&lt;div&gt;JS沙箱&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="np9BdB3iTzsvDNS6tE6I-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="np9BdB3iTzsvDNS6tE6I-95" target="np9BdB3iTzsvDNS6tE6I-97" edge="1">
